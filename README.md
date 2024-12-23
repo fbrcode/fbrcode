@@ -4,14 +4,14 @@ This is my experimental github environment with public test projects. I hope you
 
 ### Tech Stack: 
 
-![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![image](https://img.shields.io/badge/Amazon_AWS-F16822?style=for-the-badge&logo=amazonaws&logoColor=while)
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![image](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
-![image](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
+![image](https://img.shields.io/badge/Zsh-109989?style=for-the-badge&logo=Zsh&logoColor=white)
 
 ![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -63,6 +63,9 @@ This is my experimental github environment with public test projects. I hope you
 
 <!--
 **fbrcode/fbrcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Badges reference: https://github.com/alexandresanlim/Badges4-README.md-Profile
+Profile Edit reference: https://medium.com/swlh/create-awesome-git-readme-profile-84efa0bcda3b
 
 Here are some ideas to get you started:
 
